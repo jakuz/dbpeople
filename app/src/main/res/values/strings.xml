@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DB People</string>
+    <string name="editName">Imię</string>
+    <string name="editSurname">Nazwisko</string>
+    <string name="editCity">Miasto</string>
+    <string name="buttonAdd">Dodaj wpis do bazy</string>
+</resources>
